@@ -1,0 +1,190 @@
+
+Contoh Dokumentasi Perangkat Lunak dan Tahapan Membuatnya
+
+Table of Contents
+Daftar 11 Testing Tools Populer Terbaik
+1. Selenium
+2. Katalon Studio
+3. Eggplant
+4. Appium
+5. QTP (UFT)
+6. TestComplete
+7. Watir
+8. Kobiton
+9. Testsigma
+10. RFT
+Daftar 11 Testing Tools Populer Terbaik
+testing-tools-1
+
+1.
+- Selenium
+Selenium adalah salah satu testing tool yang sangat populer dalam otomatisasi pengujian. 
+
+Testing tool ini dapat dikatakan sebagai testing tool tertua dan telah dikembangkan sejak tahun 2014.
+
+Selenium merupakan testing tool yang ideal untuk digunakan dalam pengujian yang sering.
+
+Selenium juga memiliki Selenium Webdriver, sebuah framework untuk melakukan otomatisasi web dan dapat digunakan untuk menjalankan uji otomatisasi regresi berbasis browser yang andal.
+
+Banyak pengembang web lebih memilih Selenium karena alat ini kompatibel dengan berbagai bahasa pemrograman dan dapat diintegrasikan dengan kerangka pengujian.
+ 
+Selenium mendukung berbagai OS populer (Windows, macOS, Linux) dan browser (Chrome, Firefox, Safari) untuk pengujian lintas lingkungan.
+
+Selenium pun bersifat  open–source dan dapat dengan mudah diintegrasikan dengan alat dan framework lain. 
+
+kkurNGn : Namun, Selenium juga memiliki kekurangan yaitu ketika mengintegrasikan Selenium dengan alat lain di pipeline CI / CD, Anda harus memiliki pengetahuan dan keterampilan teknis tertentu.
+
+2.
+- Katalon Studio
+Katalon Studio adalah salah satu software testing tool yang dikatakan sebagai solusi pengujian berkelanjutan yang komprehensif yang membahas otomatisasi pengujian permintaan yang tajam di CI / CD dan DevOps. 
+
+Katalon Studio mendukung pengujian aplikasi web, API, seluler, dan desktop di seluruh sistem operasi Windows, macOS, dan Linux.
+
+Ini adalah serangkaian fitur terpadu yang dimiliki oleh Katalon Studio mulai dari merekam langkah-langkah pengujian, menjalankan kasus pengujian hingga menyediakan infrastruktur, laporan analitik, dan integrasi CI/CD.
+
+Katalon Studio mendukung pengujian berkelanjutan melalui integrasi Jira Agile yang mulus dan integrasi CI / CD asli dengan alat CI paling populer (misalnya Jenkins, Bamboo, Azure, dan CircleCI).
+
+Katalon Studio dikenal mudah digunakan, dengan pembuatan tes tanpa kode untuk pemula dan dilengkapi ekstensi tingkat lanjut untuk para ahli.
+
+Plugin di Katalon Store dapat membantu Anda memperluas kemampuan otomatisasi dan dengan mudah berintegrasi dengan perangkat lunak CI / CD lainnya.
+
+Katalon Studio juga menawarkan serangkaian lengkap laporan berwawasan, pemantauan waktu nyata, dan mekanisme umpan balik instan.
+
+Anda sepenuhnya dapat mengontrol kualitas produk serta kinerja tim Anda. Putaran umpan balik instan Katalon akan membantu Anda mendeteksi masalah yang muncul segera setelah muncul. 
+
+Katalon Studio pun bersifat open-source, jadi Anda bisa menggunakannya secara gratis dan tersedia versi berbayar khusus untuk perusahaan.
+
+3. Eggplant
+Eggplant sebelumnya dikenal dengan Testplant adalah testing tool yang mendukung berbagai teknologi dan platform otomasi, dari web, seluler, hingga aplikasi Point of Sales (POS). 
+
+EggPlant adalah alat otomatisasi pengujian GUI black box.
+
+Untuk melakukan pengujian perangkat lunak, Eggplant menawarkan berbagai macam alat otomatisasi pengujian yang dapat Anda gunakan untuk melakukan berbagai jenis pengujian.
+
+Ada EggPlant Functional untuk pengujian fungsional dan EggPlant Performance untuk pengujian beban dan kinerja.
+
+Eggplant juga dapat dengan mudah diintegrasikan dengan alat manajemen pengujian yang populer. Dengan satu skrip pengujian, EggPlant dapat membuat beberapa skenario perangkat.
+
+Dengan kurva pembelajaran yang singkat, Eggplant adalah testing tool berkelanjutan yang paling cocok untuk penguji manual.
+
+Tools ini menawarkan metode unik otomatisasi pengujian dengan solusi berbasis gambar. Eggplant berinteraksi dengan Applications Under Test (AUTs) dengan mereplikasi sudut pandang pengguna melalui screenshot dan gambar.
+
+Eggplant menyediakan test lab, layanan manajemen perangkat cloud yang memungkinkan akses 24/7 bagi tim pengembangan untuk digunakan dalam pengujian berkelanjutan dan penerapan berkelanjutan.
+
+Selain itu, Eggplant mendukung integrasi dengan ekosistem CI / CD seperti Jenkins, Bamboo, CA Agile Requirements Designers.  
+
+Anda juga dapat mengintegrasikan Eggplant dengan Undo (alat rekam dan pemutaran) untuk membantu pengembang mempersingkat waktu mendeteksi dan merespons kegagalan.
+
+Artikel Terkait  Inilah 8 Angular IDE dan Editor Terbaik di Tahun Ini!
+
+4. Appium
+Appium adalah software testing tool seluler otomatis. Appium pun bersifat open-source dan cocok digunakan untu native web app, aplikasi hibrid, dan seluler untuk iOS maupun Android. 
+
+Appium adalah pilihan tepat untuk kerangka kerja otomatisasi pengujian karena dapat digunakan untuk semua jenis aplikasi/web yang berbeda ini.
+
+Testing tool ini dianggap sebagai alat otomatisasi pengujian seluler terbaik di pasar saat ini. Ini dapat disesuaikan dan dapat digunakan sesuai dengan kebutuhan kami.
+
+Appium saat ini banyak dimanfaatkan dan disesuaikan secara fleksibel untuk kebutuhan pengujian berkelanjutan. Selain itu, sejumlah besar penyedia perangkat cloud telah mengizinkan pengguna menjalankan pengujian Appium pada infrastrukturnya sendiri. Menggunakan Appium memungkinkan Anda untuk menulis, mengunggah, mengeksekusi, dan melihat hasil tes langsung di cloud.
+
+Kekurangan Appium terletak pada langkah awal integrasi dengan ekosistem CI / CD. Mirip dengan Selenium, pengguna Appium membutuhkan pengetahuan lanjutan tentang kerangka kerja pengujian untuk menyiapkan dan menerapkan. Hal ini membuat Appium paling cocok untuk tim yang telah memiliki pemahaman mendalam tentang kerangka kerja ini dan alat CI di industri.
+
+5. QTP (UFT)
+QTP HP awalnya diluncurkan sebagai Unified Functional Testing, menyediakan pengujian fungsional otomatis dan pengujian regresi otomatis. Unified Functional Tester (UFT), produk dari Micro Focus, adalah pelopor lain yang diperkenalkan selama tren otomatisasi pengujian yang sedang booming.
+
+QTP mendukung antarmuka skrip dan menawarkan GUI untuk penggunaan yang mudah. Ini dapat digunakan untuk jaminan kualitas perusahaan. Ia menggunakan skrip VB untuk menentukan prosedur pengujian dan memanipulasi objek aplikasi yang sedang diuji.
+
+QTP mendukung pengujian otomatis dan berkelanjutan untuk web, seluler, API, hybrid, Robotics Process Automation (RPA), dan aplikasi perusahaan. Tools ini menawarkan fitur unik berbasis gambar identifikasi yang diberdayakan oleh OCR tertanam (ABBYY, Google Tesseract), meniru cara manusia mengenali objek.
+
+Mengenai pengujian berkelanjutan, Anda dapat mengintegrasikan ekosistem QTP dari alat kontrol sumber (Git, SVN) ke alat CI / CD (misalnya Jenkins, Bamboo, Microsoft TFS) untuk mencapai pengujian berkelanjutan.
+
+QTP menggunakan VBScript sebagai bahasa skrip; jadi ini bisa menjadi tantangan bagi beberapa penguji manual. Tim harus mempertimbangkan faktor ini dan mengevaluasi keterampilan pembuatan skrip saat ini sebelum memilih alat.
+
+Artikel Terkait  Ingin Coba Buat Progressive Web App? Ikuti 8 Langkah Mudah Ini
+
+6. TestComplete
+TestComplete adalah platform otomatisasi pengujian fungsional yang dikembangkan oleh SmartBear. TestComplete memberi penguji perangkat lunak kemampuan untuk membuat pengujian otomatis untuk aplikasi web, Microsoft Windows, iOS dan Android.  Alat ini mendukung berbagai bahasa skrip termasuk Python, Javascript, VBScript.
+
+TestComplete memungkinkan Anda melakukan pengujian berdasarkan kata kunci atau berdasarkan data. Pembuat TestComplete baru-baru ini memperkenalkan fitur AI untuk pengenalan dan pemeliharaan objek uji yang dinamis. TestComplete dapat secara otomatis mendeteksi dan memperbarui pengujian jika ada perubahan dengan UI AUT.
+
+TestComplete mendukung integrasi terbuka dengan ekosistem CI / CD melalui plugin. Anda dapat menggunakan plugin ini untuk berintegrasi dengan alat CI / CD populer seperti Jenkins, GIT, Zephyr (alat manajemen pengujian oleh Smartbear) atau Anda dapat mengembangkan plugin khusus untuk diintegrasikan dengan sistem yang ada.
+
+SmartBear mengklaim TestComplete sebagai yang paling mudah digunakan dalam hal pengujian UI otomatis. Kelebihan dari dari TestComplete adalah Anda dapat menjalankan uji regresi paralel dengan pembuatan otomatisasi dan membuat uji regresi yang stabil. TestComplete pun dapat secara otomatis menjadwalkan dan menjalankan tes regresi tanpa campur tangan manusia sehingga lebih menghemat waktu pengujian dan biaya pelatihan secara signifikan.
+
+7. Watir
+Berfokus pada pengujian aplikasi web, Watir adalah otomatisasi pengujian dengan sumber terbuka yang sangat baik dan alat pengujian berkelanjutan berdasarkan bahasa Ruby. Software ini merupakan alat otomatisasi perpustakaan Ruby yang paling andal dan fleksibel untuk otomatisasi browser web.
+
+Watir pun mendukung pengujian lintas browser dengan browser populer termasuk Chrome, Firefox, dan Opera. Testing tool ini juga mendukung pengujian berbasis data dan pengujian browser tanpa kepala yang diperlukan untuk menjalankan pengujian di pipeline CI / CD.
+
+Anda dapat mengintegrasikan Watir dengan alat dan framework Behavioral Driven Development (BDD) seperti Cucumber, RSpect, atau Test/Unit. Dengan menggabungkan Watir dengan kerangka kerja BDD dan mengintegrasikannya dengan alat CI (misalnya Jenkins), tim Anda pun dapat mencapai pengujian berkelanjutan yang sukses selama siklus hidup pengembangan.
+
+Beberapa keunggulan dari Watir adalah, didukung oleh komunitas yang sangat aktif dan berkembang serta Watir adalah testing tool yang kuat dan ringan.
+
+Artikel Terkait  Mengenal Quill JS, Text Editor Modern Berbasis JavaScript
+
+8. Kobiton
+software-testing
+
+Kobiton membuat Pengujian Berkelanjutan Seluler dan IoT. Ada banyak pilihan untuk Anda melakukan otomatisasi pada perangkat ini. Kobiton memungkinkan Anda untuk melakukan otomatisasi pengujian fungsional, performa, visual, dan kompatibilitas dengan mudah menggunakan pendekatan tanpa skrip berbasis AI dan dengan perangkat berbasis skrip dan sumber terbuka favorit Anda. Dengan Kobiton, pastikan kualitas dan rilis komprehensif dengan kecepatan DevOps.
+
+Menggunakan Kobiton, Anda juga dapat membuat kode Appium 100% standar terbuka tanpa skrip. Kobiton menyediakan Integrasi CI / CD yang mulus, alat untuk memdeteksi kerusakan otomatis, validasi visual & pengujian UX, eksplorasi dan pelaporan sesi mendalam, serta Kobiton dilengkapi dengan kebijakan pengguna tak terbatas dengan akses ke perangkat real di cloud atau melalui pengaturan lokal.
+
+9. Testsigma
+Testsigma testing tool. Perangkat lunak ini menawarkan solusi berbasis cloud yang mendukung otomatisasi pengujian web, seluler, dan API. Testsigma menggunakan bahasa Inggris untuk menyusun tes, yang mengurangi kurva pembelajaran bagi penguji manual untuk dengan cepat mengadopsi keterampilan otomatisasi.
+
+Dalam pengujian berkelanjutan, Testsigma juga menyediakan infrastruktur pengujian dengan perangkat, OS, dan browser yang paling sesuai untuk tim dengan sumber daya terbatas atau kebutuhan pengujian yang kompleks.
+
+Testsigma memanfaatkan AI untuk membantu praktik ini. Testing tool ini menggunakan AI untuk mengidentifikasi potensi risiko dan masalah yang berasal dari perubahan dan modifikasi konstan untuk tindakan segera.
+
+Testsigma mendukung dan terintegrasi dengan alat CI / CD populer seperti Jira, Slack, untuk beberapa nama, serta memungkinkan Anda menambahkan Selenium atau Java untuk memperluas kemampuan Testsigma.
+
+10. RFT
+Rational Functional Tester (RFT) adalah alat otomatisasi pengujian yang terkenal, dibuat oleh IBM. RFT adalah salah satu pelopor dalam industri otomasi pengujian. Alat tersebut mendukung pengujian fungsional, berdasarkan data, API, kinerja, dan regresi. RFT menggunakan .Net dan Java sebagai bahasa skrip.
+
+RFT secara otomatis menghasilkan pengujian regresi berdasarkan pengujian yang sudah dijalankan. Perangkat ini pun akan membantu Anda terus memantau kualitas tes bila ada perubahan.
+
+Testing tool ini menawarkan mode serbaguna untuk Anda dapat berkolaborasi dengan tim dalam mode pengujian storyboard serta memvisualisasikan alur pengujian dan mode scripting untuk tujuan yang lebih maju.
+
+RFT terintegrasi dengan IBM Quality Manager – alat manajemen pengujian untuk membantu tim pengembangan tetap up-to-date dengan kualitas AUT. RFT juga mendukung pengujian berkelanjutan dan menjalankan pengujian di pipeline CI / CD.
+
+Namun, sejak alat itu diperkenalkan sejak lama, alat ini hadir dengan teknologi yang sudah kuno (dan mungkin asing). Inilah yang kemudian menjadi kekurangan dari RFT terutama bagi pengguna pemula karena alat tersebut memerlukan pengetahuan teknis lanjutan di DevOps.
+
+Itulah 10 Testing Tools Terbaik dan Terpopuler yang dapat Anda gunakan saat ini. Masing-masing alat pengujian tersebut tentunya memiliki kekurangan dan kelebihannya sendiri.
+
+Jika Anda seorang developer pemula, Selenium dan Katalon Studio dapat menjadi pilihan terbaik karena mudah dioperasikan dan sudah banyak tutorial maupun dokumentasi yang dapat membantu Anda dalam mengoperasikan Selenium dan Katalon Studio.
+
+11.
+Apache JMeter™
+The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
+
+What can I do with it?
+Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications.
+It can be used to simulate a heavy load on a server, group of servers, network or object to test its strength or to analyze overall performance under different load types.
+Apache JMeter features include:
+
+Ability to load and performance test many different applications/server/protocol types:
+Web - HTTP, HTTPS (Java, NodeJS, PHP, ASP.NET, …)
+SOAP / REST Webservices
+FTP
+Database via JDBC
+LDAP
+Message-oriented middleware (MOM) via JMS
+Mail - SMTP(S), POP3(S) and IMAP(S)
+Native commands or shell scripts
+TCP
+Java Objects
+
+Full featured Test IDE that allows fast Test Plan recording (from Browsers or native applications), building and debugging.
+CLI mode (Command-line mode (previously called Non GUI) / headless mode) to load test from any Java compatible OS (Linux, Windows, Mac OSX, …)
+A complete and ready to present dynamic HTML report
+Easy correlation through ability to extract data from most popular response formats, HTML, JSON , XML or any textual format
+Complete portability and 100% Java purity.
+Full multi-threading framework allows concurrent sampling by many threads and simultaneous sampling of different functions by separate thread groups.
+Caching and offline analysis/replaying of test results.
+Highly Extensible core:
+
+Pluggable Samplers allow unlimited testing capabilities.
+Scriptable Samplers (JSR223-compatible languages like Groovy and BeanShell)
+Several load statistics may be chosen with pluggable timers.
+Data analysis and visualization plugins allow great extensibility as well as personalization.
+Functions can be used to provide dynamic input to a test or provide data manipulation.
+Easy Continuous Integration through 3rd party Open Source libraries for Maven, Gradle and Jenkins.
